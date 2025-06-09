@@ -1,0 +1,7 @@
+torch
+pandas
+cython
+scipy
+tensorboard
+matplotlib
+numpy==1.26.4
